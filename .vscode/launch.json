@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Valid_Parenthesis",
+            "request": "launch",
+            "mainClass": "Strings.Valid_Parenthesis",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Valid_anagram",
             "request": "launch",
             "mainClass": "Strings.Valid_anagram",
