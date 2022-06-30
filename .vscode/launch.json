@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Valid_palindrome",
+            "request": "launch",
+            "mainClass": "Strings.Valid_palindrome",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Logest_Divisible_subarray_K",
+            "request": "launch",
+            "mainClass": "Arrays.Logest_Divisible_subarray_K",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Largest_Number",
+            "request": "launch",
+            "mainClass": "Arrays.Largest_Number",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Make_array_palindrome",
+            "request": "launch",
+            "mainClass": "Arrays.Make_array_palindrome",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Merging_Intervals",
+            "request": "launch",
+            "mainClass": "Arrays.Merging_Intervals",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Given_pair_sum",
+            "request": "launch",
+            "mainClass": "Arrays.Given_pair_sum",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch two_sum",
+            "request": "launch",
+            "mainClass": "Arrays.two_sum",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Container_with_most_water",
+            "request": "launch",
+            "mainClass": "Arrays.Container_with_most_water",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch three_sum",
+            "request": "launch",
+            "mainClass": "Arrays.three_sum",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch minimum_in_sorted_rotated_array",
+            "request": "launch",
+            "mainClass": "Arrays.minimum_in_sorted_rotated_array",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maximum_Product_Subarray",
+            "request": "launch",
+            "mainClass": "Arrays.Maximum_Product_Subarray",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Product_array_except_self",
+            "request": "launch",
+            "mainClass": "Arrays.Product_array_except_self",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Trapping_Rain_Water",
+            "request": "launch",
+            "mainClass": "Arrays.Trapping_Rain_Water",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kth_Largest_Element",
+            "request": "launch",
+            "mainClass": "Arrays.Kth_Largest_Element",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Repeat_Missing_no_Array",
+            "request": "launch",
+            "mainClass": "Arrays.Repeat_Missing_no_Array",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Best_Time_buy_sell_stock",
+            "request": "launch",
+            "mainClass": "Arrays.Best_Time_buy_sell_stock",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Next_Permutation",
+            "request": "launch",
+            "mainClass": "Arrays.Next_Permutation",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rotated_and_Sorted_Array",
+            "request": "launch",
+            "mainClass": "Arrays.Rotated_and_Sorted_Array",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Choclate_Distribution",
+            "request": "launch",
+            "mainClass": "Arrays.Choclate_Distribution",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Contains_Duplicate",
+            "request": "launch",
+            "mainClass": "Arrays.Contains_Duplicate",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maximum_Subarray",
+            "request": "launch",
+            "mainClass": "Arrays.Maximum_Subarray",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse_Array",
+            "request": "launch",
+            "mainClass": "Arrays.Reverse_Array",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Min_and_max_element",
+            "request": "launch",
+            "mainClass": "Arrays.Min_and_max_element",
+            "projectName": "DSA Practice_46bf8126"
+        }
+    ]
+}
