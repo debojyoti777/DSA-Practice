@@ -1,5 +1,6 @@
 package Strings;
 
+
 public class Remove_consecutive_duplicates {
     
     static String duplicates(String s)
@@ -22,7 +23,7 @@ public class Remove_consecutive_duplicates {
 
     public static void main(String[] args) {
 
-        String str = "geeksforgeeks";
-        System.out.println(duplicates(str)); 
+        String str = "geeeeeeeeeeeeeeksforgeeks";
+        System.out.println(duplicates(str));
     }
 }
