@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Longest_common_prefix",
+            "request": "launch",
+            "mainClass": "Strings.Longest_common_prefix",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Remove_consecutive_duplicates",
             "request": "launch",
             "mainClass": "Strings.Remove_consecutive_duplicates",
