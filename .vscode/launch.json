@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Convert_Numeric_Keypad",
+            "request": "launch",
+            "mainClass": "Strings.Convert_Numeric_Keypad",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Longest_common_prefix",
             "request": "launch",
             "mainClass": "Strings.Longest_common_prefix",
