@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Print_all_duplicates",
+            "request": "launch",
+            "mainClass": "Strings.Print_all_duplicates",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Convert_Numeric_Keypad",
             "request": "launch",
             "mainClass": "Strings.Convert_Numeric_Keypad",
