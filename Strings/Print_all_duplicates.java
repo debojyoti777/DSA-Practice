@@ -19,12 +19,11 @@ public class Print_all_duplicates {
         }
         Set<Character> set = map.keySet();
         for (Character character : set) {
-            if(character !=  ' ' && map.get(character) >= 2)
+            if(map.get(character) >= 2 && character != ' ')
                 aral.add(character);
         }
-        return aral;
-    }
-
+            return aral;
+        }
     public static void main(String[] args) {
         String str = "test string";
         System.out.println(duplicates(str));
