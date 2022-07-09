@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Longest_Substring_withoutRepeating",
+            "request": "launch",
+            "mainClass": "Strings.Longest_Substring_withoutRepeating",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Print_all_duplicates",
             "request": "launch",
             "mainClass": "Strings.Print_all_duplicates",
