@@ -1,31 +1,31 @@
 package Strings;
 
+import java.util.HashSet;
+import java.util.Set;
 
 public class Longest_Substring_withoutRepeating {
     
     static int repeating(String s)
     {
-        String j="";
-        int max=0;
-        if(s.isEmpty())
-            return 0;
-
-        if(s.length() == 1)
-            return 1;
-        
-        for (char c: s.toCharArray()) {
-            String x = String.valueOf(c);
-
-            if(j.contains(x) && s.indexOf(x) < s.length()-2)
-                j = j.substring(s.indexOf(x)+1);
-            j += x;
-            max = Math.max(max, j.length());   
+        int i = 0, j = 0, max = 0;
+        Set<Character> set = new HashSet<>();
+    
+    while (j < s.length()) {
+        if (! set.contains(s.charAt(j))) {
+            set.add(s.charAt(j ++));
+            max = Math.max(max, set.size());
         }
-        return max;
-    } 
+      else {
+            set.remove(s.charAt(i++));
+            System.out.println(i-1);
+        }
+    }
+    
+    return max; 
+    }
 
     public static void main(String[] args) {
-        String str = "ohomm";
+        String str = "";
         System.out.println(repeating(str));
     }
 }

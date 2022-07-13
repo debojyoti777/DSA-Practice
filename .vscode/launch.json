@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Max_length_substring_k_changes",
+            "request": "launch",
+            "mainClass": "Strings.Max_length_substring_k_changes",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Longest_Substring_withoutRepeating",
             "request": "launch",
             "mainClass": "Strings.Longest_Substring_withoutRepeating",
