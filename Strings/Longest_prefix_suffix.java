@@ -14,12 +14,10 @@ public class Longest_prefix_suffix {
             int j = lps[i-1];
             while(j>0 && arr[j] != arr[i])
                 j = lps[j-1];
-            System.out.println(j);
             if(arr[j] == arr[i])
                 j++;
-
             lps[i] = j;
-            System.out.println(Arrays.toString(lps));
+           
         }
         int j  =  lps[n-1];
         StringBuffer sdf = new StringBuffer() ;
