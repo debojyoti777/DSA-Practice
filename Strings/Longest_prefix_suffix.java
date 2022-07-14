@@ -17,7 +17,6 @@ public class Longest_prefix_suffix {
             if(arr[j] == arr[i])
                 j++;
             lps[i] = j;
-           
         }
         int j  =  lps[n-1];
         StringBuffer sdf = new StringBuffer() ;
