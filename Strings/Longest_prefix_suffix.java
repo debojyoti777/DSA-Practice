@@ -1,7 +1,5 @@
 package Strings;
 
-import java.util.Arrays;
-
 public class Longest_prefix_suffix {
     
     static String longest(String s)
