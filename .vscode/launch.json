@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Robin_Karp_Algo",
+            "request": "launch",
+            "mainClass": "Strings.Robin_Karp_Algo",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Wildcard_matching",
             "request": "launch",
             "mainClass": "Strings.Wildcard_matching",
