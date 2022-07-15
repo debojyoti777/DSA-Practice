@@ -1,35 +1,39 @@
 package Strings;
 
-import java.util.Arrays;
-
 public class Wildcard_matching {
     
     static boolean wildcard(String s, String p)
     {
-        boolean[][] match=new boolean[s.length()+1][p.length()+1];
-        System.out.println(s.length());
-        System.out.println(p.length());
-        match[s.length()][p.length()]=true;
-        for (int i = 0; i < match.length; i++) {
-            for (int j = 0; j < match.length; j++) {
-                System.out.print(match[i][j] + "  ");
-            }
-            System.out.println();
-        }
-        for(int i=p.length()-1;i>=0;i--){
-            if(p.charAt(i)!='*')
-                break;
+        if(s==null || p == null)
+            return s==p;
+        
+            boolean[][] dp = new boolean[s.length()+1][p.length()+1];
+            dp[0][0]=true;
+            for(int col=1; col<s.length();col++){
+                if(p.charAt(col-1) == '*')
+                    dp[0][col]=true;
             else
-                match[s.length()][i]=true;
+                break;
+            
         }
-
-        return false;
+            
+        for(int row=1; row<s.length()+1;row++){
+            for(int col=1;col<p.length()+1;col++){
+                char str = s.charAt(row-1);
+                char pattn = p.charAt(col-1);
+                if(str == pattn || pattn == '?'){
+                    dp[row][col] = dp[row-1][col-1];
+                } else if(pattn == '*'){
+                    dp[row][col] = dp[row][col-1] || dp[row-1][col];
+                }
+            }
+        }
+        return dp[s.length()][p.length()];
     }
 
     public static void main(String[] args) {
-        String s = "ge?ks*";
-        String p = "geeksforgeeks";
-        wildcard(s, p);
-     //   System.out.println(wildcard(s, p));
+        String s =  "aa";
+        String p = "*";
+        System.out.println(wildcard(s, p));
     }
 }
