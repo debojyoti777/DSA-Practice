@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Changing_String_minimum_operations",
+            "request": "launch",
+            "mainClass": "Strings.Changing_String_minimum_operations",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Robin_Karp_Algo",
             "request": "launch",
             "mainClass": "Strings.Robin_Karp_Algo",
