@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Minimum_windown_substring",
+            "request": "launch",
+            "mainClass": "Strings.Minimum_windown_substring",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Changing_String_minimum_operations",
             "request": "launch",
             "mainClass": "Strings.Changing_String_minimum_operations",
