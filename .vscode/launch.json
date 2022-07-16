@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Diagonal_Matrix_Traversal",
+            "request": "launch",
+            "mainClass": "Two_Dimensional_Matrix.Diagonal_Matrix_Traversal",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Minimum_windown_substring",
             "request": "launch",
             "mainClass": "Strings.Minimum_windown_substring",
