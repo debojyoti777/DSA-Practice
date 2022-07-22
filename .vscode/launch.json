@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Counting_sort",
+            "request": "launch",
+            "mainClass": "Searching_and_Sorting.Counting_sort",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Sum_of_every_pair_is_greater_than_K",
             "request": "launch",
             "mainClass": "Searching_and_Sorting.Sum_of_every_pair_is_greater_than_K",
