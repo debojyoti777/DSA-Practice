@@ -1,7 +1,6 @@
 package Searching_and_Sorting;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 public class Sum_of_every_pair_is_greater_than_K {
     
