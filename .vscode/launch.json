@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Searching_array_adjacent_differ_k",
+            "request": "launch",
+            "mainClass": "Searching_and_Sorting.Searching_array_adjacent_differ_k",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch queue",
             "request": "launch",
             "mainClass": "Searching_and_Sorting.queue",
