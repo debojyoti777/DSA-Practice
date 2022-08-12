@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch queue",
+            "request": "launch",
+            "mainClass": "Searching_and_Sorting.queue",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Common_elements_in_three_sorted_array",
             "request": "launch",
             "mainClass": "Searching_and_Sorting.Common_elements_in_three_sorted_array",
