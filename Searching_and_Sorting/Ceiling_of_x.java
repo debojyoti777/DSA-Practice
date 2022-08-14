@@ -17,13 +17,13 @@ public class Ceiling_of_x {
                 else
                     low = mid+1;
             }
-            return low;
+            return high;
         }
         public static void main(String[] args)
         {
             int arr[] = { 1, 2, 8, 10, 10, 12, 19 };
             int n = arr.length;
-            int x = 8;
+            int x = 0;
             int index = ceilSearch(arr, 0, n - 1, x);
             if (index == -1)
                 System.out.println("Ceiling of " + x
