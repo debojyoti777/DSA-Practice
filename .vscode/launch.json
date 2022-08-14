@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ceiling_of_x",
+            "request": "launch",
+            "mainClass": "Searching_and_Sorting.Ceiling_of_x",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maximum_consecutive_floors",
+            "request": "launch",
+            "mainClass": "Searching_and_Sorting.Maximum_consecutive_floors",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maximum_Gap",
+            "request": "launch",
+            "mainClass": "Searching_and_Sorting.Maximum_Gap",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Searching_array_adjacent_differ_k",
             "request": "launch",
             "mainClass": "Searching_and_Sorting.Searching_array_adjacent_differ_k",
