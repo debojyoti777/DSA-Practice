@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch majority_element",
+            "request": "launch",
+            "mainClass": "Searching_and_Sorting.majority_element",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch pramita",
+            "request": "launch",
+            "mainClass": "Two_Dimensional_Matrix.pramita",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch accenture_practice",
+            "request": "launch",
+            "mainClass": "Searching_and_Sorting.accenture_practice",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Ceiling_of_x",
             "request": "launch",
             "mainClass": "Searching_and_Sorting.Ceiling_of_x",
