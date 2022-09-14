@@ -23,7 +23,7 @@ public class Sum_of_every_pair_is_greater_than_K {
     int k = 10;
  
     if (sum(a, b, k))
-        System.out.print("Yes");
+        System.out.print("Yessssss !! ");
     else
         System.out.print("No");
     }
