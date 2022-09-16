@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Merge_sorted_arrays",
+            "request": "launch",
+            "mainClass": "Searching_and_Sorting.Merge_sorted_arrays",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch toy",
             "request": "launch",
             "mainClass": "Searching_and_Sorting.toy",
