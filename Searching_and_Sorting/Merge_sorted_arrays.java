@@ -36,4 +36,4 @@ public class Merge_sorted_arrays {
         int arr2[] = {7, 8, 8, 17, 20, 22, 27, 27, 38};
         merge(arr1, arr2);
     }
-}
+} 

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Inverse_count",
+            "request": "launch",
+            "mainClass": "Searching_and_Sorting.Inverse_count",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch ttriplets_with_small_sum",
+            "request": "launch",
+            "mainClass": "Searching_and_Sorting.ttriplets_with_small_sum",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Merge_sorted_arrays",
             "request": "launch",
             "mainClass": "Searching_and_Sorting.Merge_sorted_arrays",
