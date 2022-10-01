@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch pujo_sorting",
+            "request": "launch",
+            "mainClass": "Searching_and_Sorting.pujo_sorting",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch two_stack1",
+            "request": "launch",
+            "mainClass": "Stacks_and_Queues.two_stack1",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch Inverse_count",
             "request": "launch",
             "mainClass": "Searching_and_Sorting.Inverse_count",
