@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch postfix_expression",
+            "request": "launch",
+            "mainClass": "Stacks_and_Queues.postfix_expression",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch pujo_sorting",
             "request": "launch",
             "mainClass": "Searching_and_Sorting.pujo_sorting",
