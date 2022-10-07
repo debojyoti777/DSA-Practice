@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch reversing_q_till_k_elements",
+            "request": "launch",
+            "mainClass": "Stacks_and_Queues.reversing_q_till_k_elements",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch reverse_queue",
             "request": "launch",
             "mainClass": "Stacks_and_Queues.reverse_queue",
