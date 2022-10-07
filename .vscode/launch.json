@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch stack",
+            "request": "launch",
+            "mainClass": "Stacks_and_Queues.stack",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch implement_stacks_using_queues",
+            "request": "launch",
+            "mainClass": "Stacks_and_Queues.implement_stacks_using_queues",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch postfix_expression",
             "request": "launch",
             "mainClass": "Stacks_and_Queues.postfix_expression",
