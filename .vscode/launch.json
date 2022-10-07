@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch reverse_queue",
+            "request": "launch",
+            "mainClass": "Stacks_and_Queues.reverse_queue",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch stack",
             "request": "launch",
             "mainClass": "Stacks_and_Queues.stack",
