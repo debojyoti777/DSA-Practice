@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch special_stack",
+            "request": "launch",
+            "mainClass": "Stacks_and_Queues.special_stack",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch infix_to_postfix",
+            "request": "launch",
+            "mainClass": "Stacks_and_Queues.infix_to_postfix",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch reversing_q_till_k_elements",
             "request": "launch",
             "mainClass": "Stacks_and_Queues.reversing_q_till_k_elements",
