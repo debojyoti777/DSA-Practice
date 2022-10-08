@@ -30,7 +30,7 @@ public class special_stack {
     
     int min()
     {
-        return s2.pop();
+        return s2.peek();
     }
 
     public static void main(String[] args) {
