@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch logs",
+            "request": "launch",
+            "mainClass": "Stacks_and_Queues.logs",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch longest_valid_substring",
+            "request": "launch",
+            "mainClass": "Stacks_and_Queues.longest_valid_substring",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch special_stack",
             "request": "launch",
             "mainClass": "Stacks_and_Queues.special_stack",
