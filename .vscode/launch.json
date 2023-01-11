@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch clock",
+            "request": "launch",
+            "mainClass": "Stacks_and_Queues.clock",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch stack_permutation_using_stack",
+            "request": "launch",
+            "mainClass": "Stacks_and_Queues.stack_permutation_using_stack",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicate_parenthesis",
+            "request": "launch",
+            "mainClass": "Stacks_and_Queues.duplicate_parenthesis",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
+            "name": "Launch luxury_no",
+            "request": "launch",
+            "mainClass": "Searching_and_Sorting.luxury_no",
+            "projectName": "DSA Practice_46bf8126"
+        },
+        {
+            "type": "java",
             "name": "Launch logs",
             "request": "launch",
             "mainClass": "Stacks_and_Queues.logs",
