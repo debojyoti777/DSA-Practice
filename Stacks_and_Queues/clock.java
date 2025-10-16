@@ -1,7 +1,5 @@
 package Stacks_and_Queues;
 
-import javax.lang.model.util.ElementScanner14;
-import javax.swing.text.DefaultStyledDocument.ElementSpec;
 
 public class clock {
     
@@ -58,5 +56,8 @@ public class clock {
     public static void main(String[] args) {
         
         System.out.println(clock1("17:?6"));
+        // StringBuffer sb = new StringBuffer("Hello this is an example to learn git ");
+        // String st = sb.toString();
+        // System.out.println(st);
     }
 }
