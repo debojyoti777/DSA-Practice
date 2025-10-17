@@ -41,5 +41,6 @@ public class Common_elements_in_three_sorted_array {
  
         ArrayList<Integer> arr = common(arr1, arr2, arr3);
         System.out.println(arr);
+        //New example line for git learning
     }
 }

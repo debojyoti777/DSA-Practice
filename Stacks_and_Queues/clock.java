@@ -1,8 +1,5 @@
 package Stacks_and_Queues;
 
-import javax.lang.model.util.ElementScanner14;
-import javax.swing.text.DefaultStyledDocument.ElementSpec;
-
 public class clock {
     
 

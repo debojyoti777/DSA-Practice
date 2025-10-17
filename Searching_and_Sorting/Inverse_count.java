@@ -20,5 +20,6 @@ public class Inverse_count {
         int arr[] = new int[] { 1, 20, 6, 4, 5 };
         System.out.println("Number of inversions are "
                            + inverse(arr));
+        //This is a new line for git learning.
     }
 }
